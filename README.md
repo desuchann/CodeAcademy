@@ -5,3 +5,4 @@ Topics covered
 - Queues
 - Stacks
 - Linked Lists
+- Trees
