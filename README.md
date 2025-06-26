@@ -6,3 +6,6 @@ Topics covered
 - Stacks
 - Linked Lists
 - Trees
+- Graphs
+- DFS BFS
+- Djikstra's A*
